@@ -1,0 +1,6 @@
+wait 20
+dig ~+1 ~ ~
+wait 100
+useitem
+wait 10
+inventory container click 19

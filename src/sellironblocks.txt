@@ -1,0 +1,13 @@
+send /shop
+wait 10
+inventory container click 15
+wait 10
+inventory container click 21 RightClick
+wait 10
+inventory container click 40 LeftClick
+wait 10
+inventory container close
+wait 10
+inventory container close
+wait 10
+inventory container close
